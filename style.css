@@ -1,0 +1,60 @@
+body {
+    background-image: url('new.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+#title {
+    color: white;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+#Clock {
+    color: white;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 10px;
+    font-style: italic;
+    margin: 0;
+    padding: 20px 0;
+}
+
+#Date {
+    color: aqua;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+    font-style: normal;
+    margin: 0;
+    padding: 20px 0;
+}
+
+#Countdown {
+    color: yellow;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+    font-style: normal;
+    margin: 0;
+    padding: 20px 0;
+}
+
+#Remains2024 {
+    color: blue;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+    font-style: normal;
+    margin: 0;
+    padding: 20px 0;
+}
